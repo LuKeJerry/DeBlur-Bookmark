@@ -1,0 +1,2 @@
+javascript:(function%20pxl8(){const%20s=document.createElement('style');s.innerHTML='img{%20image-rendering:%20optimizeSpeed;%20image-rendering:%20-moz-crisp-edges;%20image-rendering:%20-o-crisp-edges;%20image-rendering:%20-webkit-optimize-contrast;%20image-rendering:%20pixelated;%20image-rendering:%20optimize-contrast;%20-ms-interpolation-mode:%20nearest-neighbor;%20}';document.head.appendChild(s);for(let%20i=0;i<frames.length;++i){frames[i].document.head.appendChild(s);}})()
+
